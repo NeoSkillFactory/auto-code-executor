@@ -1,0 +1,11 @@
+{
+  "defaultLanguage": "python",
+  "defaultTimeout": 5000,
+  "maxTimeout": 30000,
+  "supportedLanguages": ["python", "javascript", "bash"],
+  "executors": {
+    "python": "python3",
+    "javascript": "node",
+    "bash": "bash"
+  }
+}

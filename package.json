@@ -1,0 +1,20 @@
+{
+  "name": "auto-code-executor",
+  "version": "1.0.0",
+  "description": "Automatically generates and executes code from natural language prompts to solve developer automation tasks.",
+  "main": "scripts/main.js",
+  "bin": {
+    "auto-code-executor": "scripts/main.js"
+  },
+  "scripts": {
+    "start": "node scripts/main.js",
+    "test": "node --test scripts/*.test.js"
+  },
+  "keywords": [
+    "openclaw",
+    "code-generation",
+    "automation",
+    "cli"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "python": {
+    "capabilities": ["scripting", "data processing", "file manipulation", "math", "text processing"],
+    "executor": "python3",
+    "fileExtension": ".py",
+    "keywords": ["python", "py", "pandas", "numpy", "data", "csv", "json processing", "calculate", "fibonacci", "sort", "filter"]
+  },
+  "javascript": {
+    "capabilities": ["web dev", "nodejs", "data transformation", "async operations"],
+    "executor": "node",
+    "fileExtension": ".js",
+    "keywords": ["javascript", "js", "node", "nodejs", "web", "async", "promise", "fetch", "dom", "array", "object"]
+  },
+  "bash": {
+    "capabilities": ["system tasks", "file operations", "process management", "text processing"],
+    "executor": "bash",
+    "fileExtension": ".sh",
+    "keywords": ["bash", "shell", "sh", "command", "terminal", "grep", "awk", "sed", "find", "ls", "files", "directory", "count lines", "disk"]
+  }
+}
