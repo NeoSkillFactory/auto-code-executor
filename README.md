@@ -2,26 +2,21 @@
 
 ![Audit](https://img.shields.io/badge/audit%3A%20PASS-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![OpenClaw](https://img.shields.io/badge/OpenClaw-skill-orange)
 
-> A skill that automatically generates and executes code based on natural language prompts to solve Y
+> Automatically generates and executes code from natural language prompts to solve developer automation tasks.
 
-I need to know what task you were working on before the timeout. Could you tell me:
+## Features
 
-1. What were you trying to accomplish?
-2. What was the last successful step?
-3. What went wrong (timeout, error, etc.)?
+- Translates natural language to executable code
+- Supports Python, JavaScript, and Bash
+- Executes code in a sandboxed child process with configurable timeouts
+- Maintains session context via OpenClaw agent workflows
+- Provides clear stdout/stderr output and exit codes
 
-This will help me pick up exactly where you left off without repeating work.
+## GitHub
 
-## OpenClaw Marketplace
+Source code: [github.com/NeoSkillFactory/auto-code-executor](https://github.com/NeoSkillFactory/auto-code-executor)
 
-This skill is available on [ClawHub](https://clawhub.ai) — the OpenClaw skill marketplace.
-Install it in any OpenClaw agent workspace with:
-
-```bash
-clawhub install auto-code-executor
-```
-
-**Recommended price when commercial:** $24.99 USD
+**Price suggestion:** $24.99 USD
 
 ## License
 
