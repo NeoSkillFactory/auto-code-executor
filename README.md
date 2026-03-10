@@ -16,8 +16,6 @@
 
 Source code: [github.com/NeoSkillFactory/auto-code-executor](https://github.com/NeoSkillFactory/auto-code-executor)
 
-**Price suggestion:** $24.99 USD
-
 ## License
 
 MIT © NeoSkillFactory
